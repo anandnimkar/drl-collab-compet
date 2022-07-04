@@ -39,4 +39,4 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-Run the code in `Tennis.ipynb` to training your own MARL agent!
+Run the code in `Report.ipynb` to training your own MARL agent!
